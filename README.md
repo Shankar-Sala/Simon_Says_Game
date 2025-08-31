@@ -30,13 +30,13 @@ Game Over Screen:
 ---
 
 ## ✨ Features
-- 🔹 Four colorful buttons (Red, Yellow, Green, Purple).
-- 🔹 Random sequence generation each round.
-- 🔹 Flash animation when the game shows or you press a button.
-- 🔹 Score/level display updates automatically.
-- 🔹 Game-over feedback with flashing red screen.
-- 🔹 Restart option after losing.
-- 🔹 Works on desktop 
+ 🔹 Four colorful buttons (Red, Yellow, Green, Purple).
+ 🔹 Random sequence generation each round.
+ 🔹 Flash animation when the game shows or you press a button.
+ 🔹 Score/level display updates automatically.
+ 🔹 Game-over feedback with flashing red screen.
+ 🔹 Restart option after losing.
+ 🔹 Works on desktop 
 
 ---
 
